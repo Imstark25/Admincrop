@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:admindashboard/routes/app_routes.dart';
-import 'package:admindashboard/views/dashboard_view.dart';
+// ...existing code...
 import 'package:admindashboard/theme/app_theme.dart';
 
 void main() {
